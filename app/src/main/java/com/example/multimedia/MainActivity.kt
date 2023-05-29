@@ -1,8 +1,5 @@
 package com.example.multimedia
 
-
-
-
 import android.Manifest
 import android.content.pm.PackageManager
 import android.net.Uri
